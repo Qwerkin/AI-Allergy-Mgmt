@@ -1,7 +1,7 @@
 {
   "version": "3.97.34031.0",
-  "course_id": "6OB4DIyY6ok",
-  "title": "AI Assisted Allergy Management",
+  "course_id": "5Vs2N1WC2qq",
+  "title": "AI Assisted Allergy Management Block",
   "thumbnail": "story_content/thumbnail.jpg",
   "scenes": [
     {
@@ -45,7 +45,7 @@
       "scene_index": "1.7"
     },
     {
-      "id": "5X7sJsIeFjk",
+      "id": "6chCdrHzLVk",
       "title": "Thank You",
       "scene_index": "1.8"
     }
